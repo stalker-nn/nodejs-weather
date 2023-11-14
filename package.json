@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-weather",
+  "version": "1.0.0",
+  "description": "nodejs lad tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Zimin Alexander <a.s.zimin@gmail.com>",
+  "license": "ISC"
+}
